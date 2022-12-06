@@ -1,0 +1,187 @@
+[
+  {
+    "id": "1",
+    "category": "অ্যানিমেটেড লেসনস",
+    "data": [
+      {
+        "id": 1000,
+        "title": "SSC গণিত Animated Lessons",
+        "des": "অংকের ধাঁধায় পেঁচিয়ে বিভ্রান্ত? শিখো-র অ্যানিমেটেড ক্লাসে তোমাকে স্বাগতম! এক কোর্সেই সিলেবাসের সল্যুশন আছে এখানে!",
+        "price": "৳৪৯৯০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1659263350%2Ffa2vxjzgxozffyk7vb8z.png&w=640&q=75"
+      },
+      {
+        "id": 2000,
+        "title": "SSC পদার্থবিজ্ঞান Animated Lessons",
+        "des": "পদার্থ বিজ্ঞানের সকল থিওরি এখন থাকবে তোমার হাতের মুঠোয়। অ্যানিমেটেড ভিডিও লেসনে থিওরির খুঁটিনাটি সব বিষয় হয়ে যাবে একদম পরিষ্কার।",
+        "price": "৳৪৯৯০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1656655473%2Fpma7gkdj9tmieyhazugz.png&w=640&q=75"
+      },
+      {
+        "id": 3000,
+        "title": "HSC উচ্চতর গণিত ১ম পত্র Animated Lessons",
+        "des": "অ্যানিমেটেড ভিডিও লেসন, কুইজ, স্মার্ট নোট ও এক্সাম মডিউলে উচ্চতর গণিত ১ম পত্রের পুরো বছরের সিলেবাসের সল্যুশন এখন এক কোর্সে।",
+        "price": "৳৪৯৯০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1656829834%2Fbcw3r4z24yml7abjmlvr.png&w=640&q=75"
+      },
+      {
+        "id": 4000,
+        "title": "HSC ইংরেজি Animated Lessons",
+        "des": "বুঝে পড়লে গ্রামার অথবা বাক্য গঠনে আর কখনও ভুল হবেনা। অ্যানিমেটেড ভিডিও লেসনে খুব সহজেই বুঝে নাও ইংরেজিতে তোমার সমস্যার জায়গাগুলো।",
+        "price": "৳৪৯৯০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1656656307%2Foqjc8f68wwbhfmfddjiv.png&w=640&q=75"
+      },
+      {
+        "id": 5000,
+        "title": "HSC ইংরেজি Animated Lessons",
+        "des": "বুঝে পড়লে গ্রামার অথবা বাক্য গঠনে আর কখনও ভুল হবেনা। অ্যানিমেটেড ভিডিও লেসনে খুব সহজেই বুঝে নাও ইংরেজিতে তোমার সমস্যার জায়গাগুলো।",
+        "price": "৳৪৯৯০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1656656307%2Foqjc8f68wwbhfmfddjiv.png&w=640&q=75"
+      },
+      {
+        "id": 6000,
+        "title": "HSC উচ্চতর গণিত ২য় পত্র Animated Lessons",
+        "des": "সব কঠিন অংক এবার সল্ভ হবে অ্যানিমেটেড ভিডিও লেসন-এর সাহায্যে। সূত্র ধরে জটিল অংক সল্ভ হবে সহজেই।",
+        "price": "৳৪৯৯০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1656656145%2Fwu3iuol3eoi956lv8q04.png&w=640&q=75"
+      },
+      {
+        "id": 7000,
+        "title": "HSC রসায়ন ১ম পত্র Animated Lessons",
+        "des": "আয়োডিমিতি না আয়োডোমিতি? এরকম বিভ্রান্তি সহজে দূর করতে তোমাদের জন্য অ্যানিমেটেড ভিডিওসহ রয়েছে পারফেক্ট লেসন প্ল্যান।",
+        "price": "৳৪৯৯০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1657794840%2Fyf1vd0dtazd8jktaadgh.png&w=640&q=75"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "category": "অনলাইন কোচিং",
+    "data": [
+      {
+        "id": 8000,
+        "title": "Admission Prep'22 course",
+        "des": "ঘরে বসে বিশ্ববিদ্যালয়ের A ইউনিটের ভর্তি পরীক্ষার প্রস্তুতির জন্য একটি পূর্ণাঙ্গ কোর্স।",
+        "price": "৳১৫০০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1661684129%2Fqear57i8usbsmwrizgg6.png&w=640&q=75"
+      },
+      {
+        "id": 9000,
+        "title": "SSC'24 Academic Course Science",
+        "des": " SSC সায়েন্সের সকল কনসেপ্ট শেখা ও প্রবলেম সলভের জন্য ১২ মাসের ইন্টারেকটিভ লাইভ ক্লাস কোর্স।",
+        "price": "৳১৫০০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1661584612%2Fdanh1qo5bm1bnc4zklyl.png&w=640&q=75"
+      },
+      {
+        "id": 10000,
+        "title": "SSC'24 Academic Course Common",
+        "des": " SSC কমন বিষয়গুলোর কনসেপ্ট শেখা ও প্রবলেম সলভের জন্য ১২ মাসের ইন্টারেকটিভ লাইভ ক্লাস কোর্স।",
+        "price": "৳১১২০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1661661959%2Fv9vlxqm9y7untshbqzgf.png&w=640&q=75"
+      },
+      {
+        "id": 11000,
+        "title": "SSC'24 Academic Course Common",
+        "des": " SSC কমন বিষয়গুলোর কনসেপ্ট শেখা ও প্রবলেম সলভের জন্য ১২ মাসের ইন্টারেকটিভ লাইভ ক্লাস কোর্স।",
+        "price": "৳১১২০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1661661959%2Fv9vlxqm9y7untshbqzgf.png&w=640&q=75"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "category": "টেস্ট পেপার",
+    "data": [
+      {
+        "id": 12000,
+        "title": "SSC পদার্থবিজ্ঞান - Test Paper",
+        "des": " SSC পদার্থবিজ্ঞানের বিগত বছরগুলোর সকল বোর্ড প্রশ্ন ও টেস্ট পেপার নিয়ে সাজানো হয়েছে এই কোর্স।",
+        "price": "৳১৫০০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1665466404%2Fgxdk9vg0szwfpael20nt.png&w=640&q=75"
+      },
+      {
+        "id": 13000,
+        "title": "SSC গণিত Test Paper",
+        "des": " SSC গণিতের বিগত বছরগুলোর সকল বোর্ড প্রশ্ন ও টেস্ট পেপার নিয়ে সাজানো হয়েছে এই কোর্স।",
+        "price": "৳১৫০০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1664266213%2Fvtxtgtqtn5qd9e1zeceh.png&w=640&q=75"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "category": "বোর্ড পেপার সলভিং",
+    "data": [
+      {
+        "id": 14000,
+        "title": "HSC Board Paper Solving- Physics",
+        "des": " HSC পরীক্ষার্থীদের জন্য Physics-এর বিভিন্ন বছরের বোর্ড পেপারের সৃজনশীল ও MCQ-এর প্রবলেম সলভের মাধ্যমে পূর্ণাঙ্গ প্রস্তুতি কোর্স।",
+        "price": "৳১৫০০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1656486669%2Farbx9l20edgajfhjlhxv.png&w=640&q=75"
+      },
+      {
+        "id": 15000,
+        "title": "HSC Board Paper Solving- Biology",
+        "des": " HSC পরীক্ষার্থীদের জন্য Biology-এর বিভিন্ন বছরের বোর্ড পেপারের সৃজনশীল ও MCQ-এর প্রবলেম সলভের মাধ্যমে পূর্ণাঙ্গ প্রস্তুতি কোর্স।",
+        "price": "৳১৫০০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1664266213%2Fvtxtgtqtn5qd9e1zeceh.png&w=640&q=75"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "category": "ডেইলি লেসন",
+    "data": [
+      {
+        "id": 16000,
+        "title": "SSC'23 বাংলা ১ম পত্র Short Animated Lessons",
+        "des": "SSC'23 পরীক্ষার্থীদের বাংলা ১ম পত্র শর্ট সিলেবাসের রিভিশন এবং প্রবলেম সলভের জন্য পূর্ণাঙ্গ প্রস্তুতি কোর্স।",
+        "price": "৳৪৯৯০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1662450116%2Fdd2lwjnwflax9uqxzmsh.png&w=640&q=75"
+      },
+      {
+        "id": 17000,
+        "title": "ক্যারিয়ার Development প্যাকেজ",
+        "des": "এক বান্ডেলে কমপ্লিট করুন ক্যারিয়ার ডেভেলপমেন্টের কোর্সগুলো! অলরাউন্ডার হয়ে নিশ্চিত করুন সাফল্য!",
+        "price": "৳৪৯৯০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1665473919%2Fyvews4x84abcbmocab00.png&w=640&q=75"
+      },
+
+      {
+        "id": 18000,
+        "title": "HSC ইংরেজি Animated Lessons",
+        "des": "বুঝে পড়লে গ্রামার অথবা বাক্য গঠনে আর কখনও ভুল হবেনা। অ্যানিমেটেড ভিডিও লেসনে খুব সহজেই বুঝে নাও ইংরেজিতে তোমার সমস্যার জায়গাগুলো।",
+        "price": "৳৪৯৯০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1656656307%2Foqjc8f68wwbhfmfddjiv.png&w=640&q=75"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "category": "পডকাস্ট",
+    "data": [
+      {
+        "id": 19000,
+        "title": "Google Workspace (G-Suite) Training",
+        "des": "Google Workspace-এর দরকারি টুলস ব্যবহারের খুঁটিনাটি শিখে আপনার প্রোডাক্টিভিটি লেভেল বাড়ান এবং পারফর্ম্যান্সে নতুন মাত্রা যোগ করুন!",
+        "price": "৳৫২৫/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1666162565%2Fkscxyb5fe5ah0mrokc2r.png&w=640&q=75"
+      },
+      {
+        "id": 18000,
+        "title": "Emotional Intelligence",
+        "des": "কর্মক্ষেত্রে একটি দরকারি দক্ষতা হলো ইমোশনাল ইন্টেলিজেন্স। এটি সম্পর্কে জানুন, ব্যক্তি ও কর্মজীবনে সেগুলো চর্চা করে সফল হোন!",
+        "price": "৳১২০০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1659419979%2Fjhaqu3f5fi2nhaowamyn.png&w=640&q=75"
+      },
+
+      {
+        "id": 20000,
+        "title": "Resume and Cover Letter Writing",
+        "des": "পারফেক্ট জবের জন্য এবার পারফেক্ট Resume লিখুন! এক কোর্সেই শিখুন নির্ভুল Resume ও Cover Letter লিখে কাঙ্ক্ষিত জব নিশ্চিতের কৌশল।",
+        "price": "৳১২০০/=",
+        "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1654172629%2Fkt9pt5g2jqayj9pube1c.png&w=640&q=75"
+      }
+    ]
+  }
+]
